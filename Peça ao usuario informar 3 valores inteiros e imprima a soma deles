@@ -1,0 +1,8 @@
+# 3 - Peça ao usuario informar 3 valores inteiros e imprima a soma deles
+
+n1 = int(input('Informe um numero inteiro: '))
+n2 = int(input('Informe o segundo numero inteiro: '))
+n3 = int(input('Informe o terceiro numero inteiro: '))
+
+soma = int(n1 + n2 + n3)
+print(f'A soma dos 3 valores é {soma}')
